@@ -1,1 +1,1 @@
-# Rational-Expression-Calculator
+# Rational Expression Calculator
